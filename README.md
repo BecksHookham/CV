@@ -1,6 +1,6 @@
-## Your Name
+## Khie Biggs
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a passionate and enthusiastic graduate from Makers Academy, a selective Full Stack Web Development bootcamp, seeking Junior Developer roles that will allow me to enhance and refine my programming skill
 
 ## Skills
 
