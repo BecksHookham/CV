@@ -1,6 +1,9 @@
 ## Khie Biggs
 
-I am a passionate and enthusiastic graduate from Makers Academy, a selective Full Stack Web Development bootcamp, seeking Junior Developer roles that will allow me to enhance and refine my programming skill
+I am a passionate and enthusiastic developer, seeking Junior Developer roles that will allow me to enhance and refine my programming skill
+
+I currently attend Makers Academy, a highly selective, fully immersive full-time developer Bootcamp
+
 
 ## Skills
 
