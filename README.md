@@ -2,12 +2,12 @@
 
 I am a passionate and enthusiastic developer, seeking Junior Developer roles that will allow me to enhance and refine my programming skill
 
-I currently attend Makers Academy, a highly selective, fully immersive full-time developer Bootcamp
+I currently attend Makers Academy, a highly selective, Europes leading fully immersive full-time developer Bootcamp, having switched from studying for a Bachelors degree in political science after discovering my passion for software development
 
 
 ## Skills
 
-#### This Skill
+#### 
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
