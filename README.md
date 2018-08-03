@@ -5,12 +5,6 @@ I am a passionate and enthusiastic developer, seeking Junior Developer roles tha
 
 I currently attend Makers Academy, a highly selective, fully immersive full-time developer Bootcamp, having switched from studying for a Bachelors degree in political science after discovering my passion for software development
 
-## Technologies
-- Ruby
-- Sinatra
-- Javascript
-- React
-
 ## Projects
 | Title | Timeframe | Description | Technology | Test Suites and CI/CD tools |
 |--|--|--|--|--|
